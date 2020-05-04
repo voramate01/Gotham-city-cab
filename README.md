@@ -1,4 +1,4 @@
-# Gotham-city-cab-
+# Gotham-city-cab
 
 Gotham City Cab project, we aim to study the pickup time and location data to predict the duration of a cab ride. 
 Our initial observation of the data tells us that we may need to consider using the x,y coordinate data to derive 
